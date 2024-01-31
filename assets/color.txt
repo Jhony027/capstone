@@ -1,0 +1,8 @@
+basea color of website
+monochromatic color 
+
+#164016
+
+#5B8F5B
+#95BB95
+#D3E3D3
